@@ -38,8 +38,8 @@
   Proteus modelling: cyberponk
 
   Special thanks and credits to:  
-    Arduino for the schematics for Micro and Nano v3.  
-    Andrew_Whitham for the awesome [Arduino Micro and Nano v3 3D model](https://grabcad.com/library/arduino-micro-1).  
-    ASSMANN WSW Components for the female headers 3D model (downloaded at 3D ContentCentral).  
+    * Arduino for the schematics for Micro and Nano v3.  
+    * Andrew_Whitham for the awesome [Arduino Micro and Nano v3 3D model](https://grabcad.com/library/arduino-micro-1).  
+    * ASSMANN WSW Components for the female headers 3D model (downloaded at 3D ContentCentral).  
 
 
