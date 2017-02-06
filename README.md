@@ -1,32 +1,44 @@
 # Arduino Library for Proteus
 
 
-	Arduino microprocessor boards library for Proteus
+	Arduino microprocessor boards library for Proteus.
+	Uncludes internal circuit, packages and 3D models
+	
+	Feel free to request the addition of any model.
 
-	This will be the most complete library of all arduino libraries (in a near future).
 
 #Library contents:
-	Arduino Micro with:
+	Arduino Micro:
 			Simple simulation component (simulates only the microcontroller)
 			Complete simulation component (include all pins, internal components and USB port)
 			Internal circuit schematics.
 			Packages with 3D models: headers only, soldered and arduino with headers.
 						
-			
-			As soon as time lets me, I will update the library with other arduinos.
-			Feel free to request the addition of any model.
-			
-	Arduino Nano V3 with:
+	Arduino Nano v3:
+			Simple simulation component (simulates only the microcontroller)
+			Complete simulation component (include all pins, internal components and USB port)
 			Internal circuit schematics.
+			Packages with 3D models: headers only, soldered and arduino with headers.
 			
+
+#How to install:
+	1. Close Proteus
+	2. Copy the contents of the folder "Copy to Proteus folder" to inside your installed proteus folder, 
+		There is a link file there that should point you to the correct folder. 
+		If not, Proteus is usually inside C:\Program Files (x86)\Labcenter Electronics
+	3. Open the examples from "Simulation_Examples" folder for more important information on how to use
+	4. Open files inside "3D Package Examples" folder and click on 3D Visualizer button (below Edit menu) to view the different 3D packages.
+	5. Open files inside "Internal Schematics" to view the circuit inside each arduino.
+	
+	Enjoy :)
+
 			
 #Credits:
 	Proteus modelling: cyberponk
 
 	Special thanks and credits to:
 			Arduino for the schematics for Micro and Nano v3.
-			Andrew_Whitham for the awesome Arduino Micro 3D model (https://grabcad.com/library/arduino-micro-1).
+			Andrew_Whitham for the awesome Arduino Micro and Nano v3 3D model (https://grabcad.com/library/arduino-micro-1).
 			ASSMANN WSW Components for the female headers 3D model (downloaded at 3D ContentCentral).
-			murat apti for the SMD Crystal 3D model (https://grabcad.com/library/smd-xtal-crystal-quartz-1).
 
 
