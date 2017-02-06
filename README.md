@@ -26,6 +26,9 @@
 	2. Copy the contents of the folder "Copy to Proteus folder" to inside your installed proteus folder, 
 		There is a link file there that should point you to the correct folder. 
 		If not, Proteus is usually inside C:\Program Files (x86)\Labcenter Electronics
+		
+	*By now it should be ready to use. Just search for a component in the Arduino category, from library Arduino Cp*
+		
 	3. Open the examples from "Simulation_Examples" folder for more important information on how to use
 	4. Open files inside "3D Package Examples" folder and click on 3D Visualizer button (below Edit menu)
 		to view the different 3D packages.
