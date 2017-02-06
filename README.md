@@ -27,7 +27,8 @@
 		There is a link file there that should point you to the correct folder. 
 		If not, Proteus is usually inside C:\Program Files (x86)\Labcenter Electronics
 	3. Open the examples from "Simulation_Examples" folder for more important information on how to use
-	4. Open files inside "3D Package Examples" folder and click on 3D Visualizer button (below Edit menu) to view the different 3D packages.
+	4. Open files inside "3D Package Examples" folder and click on 3D Visualizer button (below Edit menu)
+		to view the different 3D packages.
 	5. Open files inside "Internal Schematics" to view the circuit inside each arduino.
 	
 	Enjoy :)
